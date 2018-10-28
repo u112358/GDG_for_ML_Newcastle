@@ -18,6 +18,6 @@
 
    Go to '**Home**' in anaconda,  launch the Jupyter Notebook. 
    
-   Download the notebook in this repository and run it.
+   Download the notebook(*.ipynb) in this repository and run it.
 
 
