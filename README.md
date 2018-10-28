@@ -9,13 +9,19 @@
 2. Install Keras (Tensorflow)
 
    In anaconda, go to '**Enviroments**', create a new enviroment or select the '**base(root)**' enviroment. 
-   ![step 1](/Sources/step1.png)
+   <p align="center">
+   <img width="320" height="280" src="./Sources/step1.png">
+   </p>
    
    Click the droplist on the top left and change it from '**Installed**' to '**All**'. 
-   ![step 2](/Sources/step2.png)
+   <p align="center">
+   <img width="320" height="280" src="./Sources/step2.png">
+   </p>
    
    Seach the **tensorflow** and tick the box before it, apply.
-   ![step 3](/Sources/step3.png)
+   <p align="center">
+   <img width="320" height="280" src="./Sources/step3.png">
+   </p>
 
 3. Launch the Jupyter Notebook 
 
