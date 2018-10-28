@@ -9,6 +9,7 @@
 2. Install Keras (Tensorflow)
 
    In anaconda, go to '**Enviroments**', create a new enviroment or select the '**base(root)**' enviroment. 
+   [step 1](/Sources/step1.png)
    
    Click the droplist on the top left and change it from '**Installed**' to '**All**'. 
    
