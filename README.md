@@ -20,7 +20,7 @@
    
    Seach the **tensorflow** and tick the box before it, apply.
    <p align="center">
-   <img width="" height="200" src="./Sources/step3.png">
+   <img width="" height="180" src="./Sources/step3.png">
    </p>
 
 3. Launch the Jupyter Notebook 
