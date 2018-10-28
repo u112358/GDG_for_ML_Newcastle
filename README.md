@@ -10,17 +10,17 @@
 
    In anaconda, go to '**Enviroments**', create a new enviroment or select the '**base(root)**' enviroment. 
    <p align="center">
-   <img width="320" height="280" src="./Sources/step1.png">
+   <img width="" height="280" src="./Sources/step1.png">
    </p>
    
    Click the droplist on the top left and change it from '**Installed**' to '**All**'. 
    <p align="center">
-   <img width="320" height="280" src="./Sources/step2.png">
+   <img width="" height="280" src="./Sources/step2.png">
    </p>
    
    Seach the **tensorflow** and tick the box before it, apply.
    <p align="center">
-   <img width="320" height="280" src="./Sources/step3.png">
+   <img width="" height="280" src="./Sources/step3.png">
    </p>
 
 3. Launch the Jupyter Notebook 
